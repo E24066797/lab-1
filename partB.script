@@ -1,0 +1,30 @@
+命令稿啟動於 2018年03月13日 下午 09:40:53
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ whoami;pwd
+acer
+/home/acer
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ git config -l
+user.email=a0920919833@gmail.com
+user.name=E24066797
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ git cin[K[K[Kclone https://github.com/E24066797/lab-1.git
+fatal: destination path 'lab-1' already exists and is not an empty directory.
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ git clone https://github.com/E24066797/lab-1
+fatal: destination path 'lab-1' already exists and is not an empty directory.
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ exit
+
+命令稿已於 2018年03月13日 下午 09:41:56
+ 完成
