@@ -1,0 +1,36 @@
+命令稿啟動於 2018年03月14日 上午 01:08:27
+]0;~
+[32macer@LAPTOP-83E7PRGI [33m~[0m
+$ cd lab-1
+]0;~/lab-1
+[32macer@LAPTOP-83E7PRGI [33m~/lab-1[0m
+$ ls
+a.exe  lab-1.script  partB.exe
+lab-1  partB.cpp     README.txt
+]0;~/lab-1
+[32macer@LAPTOP-83E7PRGI [33m~/lab-1[0m
+$ ./partB
+Please enter an integer:
+45
+136
+68
+34
+17
+52
+26
+13
+40
+20
+10
+5
+16
+8
+4
+2
+1
+n = 1   stop]0;~/lab-1
+[32macer@LAPTOP-83E7PRGI [33m~/lab-1[0m
+$ exit
+
+命令稿已於 2018年03月14日 上午 01:08:49
+ 完成
